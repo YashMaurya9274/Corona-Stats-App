@@ -1,0 +1,7 @@
+{
+    "name": "Corona Stats",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
